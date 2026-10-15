@@ -1,5 +1,5 @@
 context:
-  version: "1.2.1"
+  version: "1.2.2"
 
 package:
   name: tgrep
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/microsoft/tgrep/archive/v${{ version }}.tar.gz
-  sha256: 5a0ca61b4c53679826b691b8193912e4789ae2df3b458fc2b8ddaceba4662af6
+  sha256: 6d60e118f17bc22a9842d5aea3fe9cfc467ae1eccd5f9b680afd4bbe0342a407
 
 build:
   number: 0
